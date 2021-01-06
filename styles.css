@@ -34,6 +34,17 @@ p {
     color: black;
 }
 
+/* styles for list */
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+/* styles for reference */
+a {
+    font-family: Arial, Helvetica, sans-serif
+}
+
 /* styles for image */
 img {
   display: block;
