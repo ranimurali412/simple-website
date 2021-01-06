@@ -16,18 +16,21 @@ body {
 
 /* styles for headline */
 h1 {
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color: black;
 }
 
 /* styles for subheadline */
 h2 {
+  font-family: Arial, Helvetica, sans-serif;
   text-align: center;
   color: black;
 }
 
 /* styles for paragraph */
 p {
+    font-family: Arial, Helvetica, sans-serif;
     color: black;
 }
 
